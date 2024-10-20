@@ -1,4 +1,4 @@
-# Chronos - Time Management Redefined
+# Chronos - Time Management Redefined 🕰️
 
 
 Chronos is a modern time management and productivity tool designed to streamline personal and professional workflows. Its core functionalities include project creation, task assignment, and deadline tracking. 
@@ -93,3 +93,7 @@ markdown
 | Slack            | Team communication tool         | [slack.com](https://slack.com)         |
 | Google Calendar  | Scheduling and reminders        | [google.com/calendar](https://google.com/calendar) |
 | Trello           | Project management tool         | [trello.com](https://trello.com)       |
+
+## Footnote
+
+
