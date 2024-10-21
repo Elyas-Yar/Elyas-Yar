@@ -3,7 +3,7 @@
 
 Chronos is a modern time management and productivity tool designed to streamline personal and professional workflows. Its core functionalities include project creation, task assignment, and deadline tracking. 
 
-## Key Features
+## Key Features🔧
 
 - *Task Management*: Organize and prioritize tasks with deadlines and reminders.
 - *Collaboration Tools*: Work on shared projects with team members in real-time.
@@ -14,27 +14,28 @@ Chronos is a modern time management and productivity tool designed to streamline
 
 
 ## Installation Guide. 
-*Windows:*
+*Windows:*💻
    + Download the .exe installer for Windows
 + Run the Installer by locating the .exe file
  + Follow the Installation Wizard guide
  + Lunch Chronos
 
-*macOC:*
+*macOC:*🍏
 + Download the .dmg Installer for macOS
  + Locate the .dmg file and Install Chronos
   + Lunch Chronos
 
-  *Linux:*
+  *Linux:*🐧
 + Download the installer
 + Open the Terminal
 + Install Chronos through Running the commad [sudo apt-get install chronos]
 
 
 
-  ## User Guide
+  ## User Guide📖
 
-### Creating a Project
+### Creating a Project 📁
+
 To create a new project in Chronos, follow these steps:
 - Name the project.
 - Set deadlines.
@@ -49,7 +50,7 @@ To create a new project in Chronos, follow these steps:
 
 
 
-### Reporting
+### Reporting📊
 
 Users can generate reports by navigating to the Reports section.
 json
@@ -62,7 +63,7 @@ json
   ]
 }
 
-## Troubleshooting
+## Troubleshooting⚠️
 
 - *Installation Issues*: Problems that occur during the installation process, such as compatibility errors.
 - *Login Problems*: Difficulty logging into the application, often due to incorrect credentials or server issues.
@@ -96,4 +97,5 @@ markdown
 
 ## Footnote
 
-
+[^1]: [Smartsheet's Ultimate Guide to Task Automation](https://www.smartsheet.com/content/ultimate-guide-task-automation)  
+[^2]: [Zapier's Automation Tools](https://zapier.com)
